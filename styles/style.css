@@ -87,7 +87,6 @@
   mix-blend-mode: hard-light;
   -webkit-text-stroke: 1px var(--stroke-color);
   text-shadow: none;
-  color: black;
 }
 
 @supports (not (-webkit-text-stroke: 1px var(--stroke-color))) {
